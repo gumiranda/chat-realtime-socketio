@@ -1,5 +1,11 @@
-# Estruturação Inicial Backend Node Express MongoDB
-Estruturação inicial do backend do canal do dev Doido Aula 1 - com Fausto Silva https://www.youtube.com/watch?v=UFl0ZYZ-1Ho
-
-
-Não esqueça de setar as variáveis no .env e o definindo seu ambiente (DEV por exemplo, pelo comando SET NODE_ENV=development no cmd) e no .env definir NODE_ENV=development e as variáveis secretKey,connection,pagarme.
+# Aula 11
+Código desenvolvido na Aula 11 do canal do Dev Doido
+# Link do vídeo
+https://youtu.be/al0-qRl-_FI
+# Descrição
+Segue o primeiro projeto da série de como criar um chat realtime usando Socket.io + NodeJS + Express + MongoDB e React Native. Nessa aula Faustão ensina :
+- Aplicar o conceito de DDD separando o backend em modulos por dominio de aplicação.
+- Integrar socket.io no backend
+- Criar endpoints de listagem de usuarios e chats usando paginação no mongodb
+- Criar endpoints de enviar e deletar mensagem
+#reactnative #nodejs #chat #socketio #realtime #mongodb
